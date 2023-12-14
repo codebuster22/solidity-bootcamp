@@ -1,5 +1,18 @@
 # Blockchain Bootcamp Overview
 
+## A quote to start
+**In life, you’re either a passenger or a pilot. The choice is yours.**
+
+## 0. Who is this bootcamp for?
+Engineers who want to leader in their space and want to drive the innovation.
+If you are aiming to be just another engineer who write code based on given requirements, this course is not for you.
+Here, you will be challenged to think differently, write requirements and the art of designing smart contracts.
+
+Smart Contract engineering is all about giving 120%:
+- 60% designing system
+- 40% testing code
+- 10% writing code
+
 ## 1. Brief Overview
 Welcome to our Blockchain Bootcamp, an intensive, project-driven learning experience starting on 14th December. This bootcamp is designed to immerse you in the world of blockchain technology, focusing on Solidity, smart contracts on EVM chains, and the latest industry trends. Limited to 12 participants, our aim is to provide a personalized and comprehensive learning journey.
 
